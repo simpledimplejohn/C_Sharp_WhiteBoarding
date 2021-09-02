@@ -1,0 +1,15 @@
+/Users/johnblalock/Desktop/epicodus/WhiteBoarding/bin/Debug/net5.0/whiteboarding.deps.json
+/Users/johnblalock/Desktop/epicodus/WhiteBoarding/bin/Debug/net5.0/whiteboarding.runtimeconfig.json
+/Users/johnblalock/Desktop/epicodus/WhiteBoarding/bin/Debug/net5.0/whiteboarding.runtimeconfig.dev.json
+/Users/johnblalock/Desktop/epicodus/WhiteBoarding/bin/Debug/net5.0/whiteboarding.dll
+/Users/johnblalock/Desktop/epicodus/WhiteBoarding/bin/Debug/net5.0/ref/whiteboarding.dll
+/Users/johnblalock/Desktop/epicodus/WhiteBoarding/bin/Debug/net5.0/whiteboarding.pdb
+/Users/johnblalock/Desktop/epicodus/WhiteBoarding/obj/Debug/net5.0/whiteboarding.csproj.AssemblyReference.cache
+/Users/johnblalock/Desktop/epicodus/WhiteBoarding/obj/Debug/net5.0/whiteboarding.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johnblalock/Desktop/epicodus/WhiteBoarding/obj/Debug/net5.0/whiteboarding.AssemblyInfoInputs.cache
+/Users/johnblalock/Desktop/epicodus/WhiteBoarding/obj/Debug/net5.0/whiteboarding.AssemblyInfo.cs
+/Users/johnblalock/Desktop/epicodus/WhiteBoarding/obj/Debug/net5.0/whiteboarding.csproj.CoreCompileInputs.cache
+/Users/johnblalock/Desktop/epicodus/WhiteBoarding/obj/Debug/net5.0/whiteboarding.dll
+/Users/johnblalock/Desktop/epicodus/WhiteBoarding/obj/Debug/net5.0/ref/whiteboarding.dll
+/Users/johnblalock/Desktop/epicodus/WhiteBoarding/obj/Debug/net5.0/whiteboarding.pdb
+/Users/johnblalock/Desktop/epicodus/WhiteBoarding/obj/Debug/net5.0/whiteboarding.genruntimeconfig.cache
