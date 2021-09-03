@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/johnblalock/Desktop/epicodus/WhiteBoarding/whiteboarding.csproj",
+      "projectUniqueName": "/Users/johnblalock/Desktop/epicodus/WhiteBoarding/C_Sharp/whiteboarding.csproj",
       "projectName": "whiteboarding",
-      "projectPath": "/Users/johnblalock/Desktop/epicodus/WhiteBoarding/whiteboarding.csproj",
+      "projectPath": "/Users/johnblalock/Desktop/epicodus/WhiteBoarding/C_Sharp/whiteboarding.csproj",
       "packagesPath": "/Users/johnblalock/.nuget/packages/",
-      "outputPath": "/Users/johnblalock/Desktop/epicodus/WhiteBoarding/obj/",
+      "outputPath": "/Users/johnblalock/Desktop/epicodus/WhiteBoarding/C_Sharp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/johnblalock/.nuget/NuGet/NuGet.Config"

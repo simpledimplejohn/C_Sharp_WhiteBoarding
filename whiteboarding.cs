@@ -55,7 +55,10 @@ namespace WhiteBoarding
       {
         recursionCoinCounter.Run();
       }
-
+      if(args[0] == "CheckingUniqueness")
+      {
+        recursionCoinCounter.Run();
+      }
     }
  
   }
