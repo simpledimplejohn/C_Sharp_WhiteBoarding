@@ -8,11 +8,10 @@ namespace WhiteBoarding.Models
     
     public static void Run()
     {
-      
       int count1 = 0;
       int[] array = {4, 2, 3, 3, 4, 1, 8, 8, 9, 2};
-
-      Dictionary<int, int> arrayCount = new Dictionary<int, int>();
+      Console.WriteLine("Search through array and find number of repeats");
+      Dictionary<int, int> arrayCount = new Dictionary<int, int>(); //instatiate the dictionary
 
       for(int j = 0; j < array.Length; j ++)
       {
@@ -23,14 +22,16 @@ namespace WhiteBoarding.Models
             count1 ++;
           }
         }
-        arrayCount.Add(j, count1);
+        arrayCount.Add(j, count1); //adding to the dictionary
         count1 = 0;
       }
 
-
+      Console.WriteLine("works here");
       Console.WriteLine("count = " + count1);  
+      
       foreach (KeyValuePair<int, int> pair in arrayCount)
       {
+        Console.WriteLine("works");
         Console.WriteLine("{0},{1}", pair.Key, pair.Value);
       }
       Console.ReadKey();
@@ -48,7 +49,7 @@ namespace WhiteBoarding.Models
 
       Dictionary<int, int> arrayCount = new Dictionary<int, int>();
 
-      Console.WriteLine("works");
+      Console.WriteLine("Basic Dictionary loop and create");
       
       // remember numbers along the way
       // do it with one

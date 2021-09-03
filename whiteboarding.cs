@@ -59,6 +59,12 @@ namespace WhiteBoarding
       {
         recursionCoinCounter.Run();
       }
+      if(args[0] == "mostArrayNumber")
+      {
+        ArrayFind.Run();
+        //ArrayFind.Dictionary();
+      }
+
     }
  
   }
