@@ -34,7 +34,7 @@ namespace WhiteBoarding.Models
         Console.WriteLine("works");
         Console.WriteLine("{0},{1}", pair.Key, pair.Value);
       }
-      Console.ReadKey();
+      //Console.ReadKey();
 
     }
 

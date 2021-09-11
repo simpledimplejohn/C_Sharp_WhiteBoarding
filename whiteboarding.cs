@@ -57,12 +57,20 @@ namespace WhiteBoarding
       }
       if(args[0] == "CheckingUniqueness")
       {
-        recursionCoinCounter.Run();
+        CheckingUniqueness.Run();
       }
       if(args[0] == "mostArrayNumber")
       {
         ArrayFind.Run();
         //ArrayFind.Dictionary();
+      }
+      if(args[0] == "Sketch");
+      {
+        Sketch.Run();
+      }
+      if(args[0] == "Collections")
+      {
+        CollectionPractice.Run();
       }
 
     }
