@@ -70,7 +70,9 @@ namespace WhiteBoarding
       }
       if(args[0] == "CollectionsPractice")
       {
-        CollectionPractice.List();
+        //CollectionPractice.ForEachListLoop();
+        //CollectionPractice.IntList();
+        CollectionPractice.DictionaryStuff();
       }
       if(args[0] == "LearningLinq")
       {
