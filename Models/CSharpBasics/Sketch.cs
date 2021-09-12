@@ -10,10 +10,9 @@ namespace WhiteBoarding.Models
     {
     public static void Run()
     {
-      var x = new List<string>(){"a", "b", "c", "d", "d"};
-      var y = x.Distinct().ToList();
-      y.ForEach(i => Console.WriteLine(i));
+      
     }
+
   }
 }
 

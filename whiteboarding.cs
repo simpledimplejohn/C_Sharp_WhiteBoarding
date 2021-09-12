@@ -64,13 +64,21 @@ namespace WhiteBoarding
         ArrayFind.Run();
         //ArrayFind.Dictionary();
       }
-      if(args[0] == "Sketch");
+      if(args[0] == "Sketch")
       {
         Sketch.Run();
       }
-      if(args[0] == "Collections")
+      if(args[0] == "CollectionsPractice")
       {
-        CollectionPractice.Run();
+        CollectionPractice.List();
+      }
+      if(args[0] == "LearningLinq")
+      {
+        LinqMethods.Run();
+      }
+      if(args[0] == "DataTypes")
+      {
+        DataTypes.Run();
       }
 
     }
