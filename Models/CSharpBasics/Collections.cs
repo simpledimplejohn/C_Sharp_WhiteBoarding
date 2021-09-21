@@ -73,6 +73,20 @@ namespace WhiteBoarding.Models
       Console.WriteLine("new count ", NewDictionary.Count);
       
     }
+    // the hash set
+    // Cannot contain dublipcates 
+    // Order of items is not relevant
+
+    //Stack
+    //LIFO behavior
+    //Changes Mongolian Grill
+    //when we need to provide the user a way to go back (like the back button of a browser)
+
+    //Queue
+    //FIFO
+    //Endqueue: add to the end
+    //Dequeue: remove from the front
+    //Peek: inspect the front
 
   }
 }

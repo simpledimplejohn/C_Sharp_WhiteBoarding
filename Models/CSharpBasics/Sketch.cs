@@ -6,13 +6,12 @@ using System.Linq;
 
 namespace WhiteBoarding.Models
 {
-  class Sketch
+  public class Sketch
+  {
+    public static void Run() 
     {
-    public static void Run()
-    {
-      
+      Console.WriteLine("sketch");
     }
-
   }
 }
 
