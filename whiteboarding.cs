@@ -92,6 +92,9 @@ namespace WhiteBoarding
       {
         WarmUp.Run();
       }
+      WarmUp.Run();
+      //BasicSyntax.PrintLine();
+
 
     }
  

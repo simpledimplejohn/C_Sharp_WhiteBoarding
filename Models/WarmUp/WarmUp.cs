@@ -1,12 +1,24 @@
 using System;
 
-namespace WhiteBoarding.Models 
+namespace WhiteBoarding.Models
 {
-  public class WarmUp
+  class WarmUp
   {
     public static void Run()
     {
-      Console.WriteLine("Welcome To Your White Boarding Warm Up");
+      Console.WriteLine("Welcome to your morning C# warm up exercises:");
+      //int a = 0;
+      char[] charArray = {'a','b','c','b'};
+      for (int i = 0; i < charArray.Length; i ++) {
+        Console.WriteLine(charArray[i]);
+      }
+      for (int i = charArray.Length -1; i >= 0; i --) {
+        Console.WriteLine(charArray[i] + " " + i);
+      }
     }
   }
 }
+
+
+
+

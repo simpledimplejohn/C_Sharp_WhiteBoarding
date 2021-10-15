@@ -20,6 +20,10 @@ namespace WhiteBoarding
       Console.WriteLine(stringVar + " " + charVar);
       Console.WriteLine("int to string " + numberVar.ToString());
       Console.WriteLine("char to string " + charVar.ToString());
+      Console.WriteLine("float number is " + floatVar.ToString());
+      Console.WriteLine("double number is: " + doubleVar.ToString());
+      Console.WriteLine("A bool variable looks like: " + boolVar);
+
 
 
 

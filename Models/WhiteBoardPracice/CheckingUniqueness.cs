@@ -44,7 +44,7 @@ namespace WhiteBoarding.Models
       string unique = "hello";
     
       Console.WriteLine(unique);
-      int count1 = 0;
+      //int count1 = 0;
 
 
       var result = IsUnique(unique);
